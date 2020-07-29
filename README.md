@@ -1,6 +1,6 @@
 After taking loans from the bank, some people are unable to repay their borrowed amount,
 resulting in a loss to the bank.
-<h4>What can be done?<\h4>
+<h4>What can be done?</h4>
 The aim of this project is to try to predict if someone will be a ‘defaulter’ i.e. would be unable
 to repay the loan.
 This will be done by analysing a given dataset consisting of various information about the
